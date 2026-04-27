@@ -1,0 +1,9 @@
+Structured Summary
+
+Input received successfully.
+
+Key content:
+python, document word and c++. are the most needed tools for my job .
+
+Status:
+Document generated without OpenAI API because API quota is not available yet.
